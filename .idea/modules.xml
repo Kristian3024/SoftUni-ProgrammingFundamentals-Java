@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ProgrammingFundamentals.iml" filepath="$PROJECT_DIR$/ProgrammingFundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftUniProgrammingFundamentals.iml" filepath="$PROJECT_DIR$/SoftUniProgrammingFundamentals.iml" />
     </modules>
   </component>
 </project>

@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class N03 {
+public class SchoolLibrary {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
